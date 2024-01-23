@@ -20,7 +20,6 @@
   <a href = "mailto:lstr0209@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-  ### Um pouco sobre mim:
-  
-</div>
+  ## Um pouco sobre mim
+  - 🌱 estou me aprodudando no javascript e seus framework
+- 😄 Pronomes: Ele/Dele
