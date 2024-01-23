@@ -1,8 +1,8 @@
 # Prazer sou rimublinda, seja bem vindo ao meu github
 
 <div>
-    <img height="300rem" src="https://github-readme-stats.vercel.app/api?username=rimublinda&show_icons=true&theme=radical">
-    <img height="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimublinda&layout=pie">
+    <img height="100rem" src="https://github-readme-stats.vercel.app/api?username=rimublinda&show_icons=true&theme=radical">
+    <img height="100rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimublinda&layout=pie">
 </div>
 
 <div style="display: inline_block !important"><br>
