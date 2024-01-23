@@ -24,5 +24,3 @@
   ### Um pouco sobre mim:
   
 </div>
-
-![Snake animation](https://github.com/Rimublinda/rimublinda/blob/output/github-contribution-grid-snake.svg)
