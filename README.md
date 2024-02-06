@@ -21,5 +21,5 @@
 </div>
 
   ## Um pouco sobre mim
-  - 🌱 estou me aprodudando no javascript e seus framework
+  - 🌱 estou me aprofundando em javascript e seus framework
 - 😄 Pronomes: Ele/Dele
